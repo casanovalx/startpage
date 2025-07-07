@@ -166,7 +166,7 @@ const default_config = {
     },
     {
       name: "dev",
-      background_url: "src/img/banners/cbg-7.gif",
+      background_url: "src/img/banners/cbg-4.gif",
       categories: [
         {
           name: "repositories",
@@ -247,7 +247,7 @@ const default_config = {
     },
     {
       name: "myself",
-      background_url: "src/img/banners/cbg-9.gif",
+      background_url: "src/img/banners/cbg-4.gif",
       categories: [
         {
           name: "почта",
