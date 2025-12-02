@@ -270,14 +270,14 @@ const default_config = {
           name: "хранилища",
           links: [
             {
-              name: "nextcloud",
-              url: "https://oto.lv.tab.digital/apps/files/",
+              name: "opencloud",
+              url: "https://192.168.0.108:9200",
               icon: "brand-nextcloud",
               icon_color: "#00BCFF",
             },
             {
               name: "фото",
-              url: "https://oto.lv.tab.digital/apps/photos",
+              url: "https://192.168.0.108:9200/files/spaces/personal/admin/%D0%AD%D0%BC%D0%B8%D1%80%D1%85%D0%B0%D0%BD/%D0%A4%D0%BE%D1%82%D0%BE?fileId=b0b157e6-bae1-494e-9452-7227b2eee315%242af1c9a6-7d00-4687-90da-29cf6182f419!67b39243-850d-4558-9fc6-e941d122f869&items-per-page=100&view-mode=resource-tiles&tiles-size=2",
               icon: "photo-filled",
               icon_color: "#00bcff",
             },
