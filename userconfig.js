@@ -12,7 +12,8 @@ const default_config = {
   },
   search: {
     engines: {
-      d: ["https://duckduckgo.com/?q=", "DuckDuckGo"],
+      g: ["https://google.com/?q=", "Google"],
+      d: ["https://duckduckgo.com/html?q=", "DuckDuckGo"],
       y: ["https://youtube.com/results?search_query=", "Youtube"],
       r: ["https://www.reddit.com/search/?q=", "Reddit"],
       p: ["https://www.pinterest.com/search/pins/?q=", "Pinterest"],
