@@ -37,25 +37,25 @@ const default_config = {
           {
             name: "mastodon",
             url: "https://mastodon.social",
-            icon: "brand-mastodon",
+            icon: "IconBrandMastodon",
             icon_color: "#6F00FF",
           },
           {
             name: "vk",
             url: "https://vk.com/feed",
-            icon: "brand-vk",
+            icon: "IconBrandVk",
             icon_color: "#7daea3",
           },
           {
             name: "reddit",
             url: "https://www.reddit.com/",
-            icon: "brand-reddit",
+            icon: "IconBrandReddit",
             icon_color: "#e78a4e",
           },
           {
             name: "youtube",
             url: "https://www.youtube.com/",
-            icon: "brand-youtube-filled",
+            icon: "IconBrandYouTubeFilled",
             icon_color: "#ea6962",
           },
           {
